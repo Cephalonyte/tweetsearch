@@ -1,0 +1,22 @@
+{
+  "name": "tweetsearch",
+  "version": "1.0.0",
+  "description": "Searches tweets with a given hashtag, stores the results in an SQLite database, then displays them on a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cephalonyte/tweetsearch.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sean Ackerley <sean.j.ackerley@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cephalonyte/tweetsearch/issues"
+  },
+  "homepage": "https://github.com/Cephalonyte/tweetsearch#readme"
+}
