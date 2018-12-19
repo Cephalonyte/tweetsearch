@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Cephalonyte/tweetsearch/issues"
   },
-  "homepage": "https://github.com/Cephalonyte/tweetsearch#readme"
+  "homepage": "https://github.com/Cephalonyte/tweetsearch#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "oauth": "^0.9.15",
+    "sqlite": "^3.0.0"
+  }
 }
